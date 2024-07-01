@@ -1,0 +1,35 @@
+body{
+    background-color:rgb(33, 31, 31);
+    display: flex;
+    height: 80vh;
+    justify-content: center;
+    align-items: center;
+    color: rgb(255, 94, 0);
+}
+.container{
+    background-color:grey;
+    padding: 14px;
+    border-radius: 6px;
+}
+.password{
+    
+    display: flex;
+    margin-bottom: 8px;
+    justify-content: center;
+}
+.pass{
+    padding: 4px;
+
+}
+.range{
+    margin-top: 8px;
+    accent-color: coral;
+}
+.btn{
+   background-color:rgb(0, 119, 255);
+   color: white;
+   font-weight: bold;
+   margin-left: 0%;
+   padding: 4px;
+   border-radius: 8px;
+}
