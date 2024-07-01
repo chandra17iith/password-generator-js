@@ -4,7 +4,7 @@ body{
     height: 80vh;
     justify-content: center;
     align-items: center;
-    color: rgb(255, 94, 0);
+    color: white;
 }
 .container{
     background-color:grey;
